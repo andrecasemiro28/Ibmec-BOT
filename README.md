@@ -13,40 +13,9 @@
 - 📦 **Consultar Pedidos** - Histórico completo de pedidos
 - 💳 **Extrato de Compras** - Relatório detalhado de transações
 
----
+---```
 
-## 🚀 **Setup Rápido (3 minutos)**
-
-### **1. Fork este repositório**
-👆 Clique no botão **"Fork"** no topo desta página para criar sua cópia
-
-### **2. Clone SEU fork**
-```bash
-# Substitua SEU-USUARIO pelo seu username do GitHub
-git clone https://github.com/SEU-USUARIO/ibmec-ecommerce-chatbot.git
-cd ibmec-ecommerce-chatbot
-```
-
-### **3. Execute o setup automático**
-```bash
-python setup.py
-```
-
-### **4. Ative o ambiente virtual**
-```bash
-# Windows:
-venv\Scripts\activate
-
-# Mac/Linux:
-source venv/bin/activate
-```
-
-### **5. Execute o bot**
-```bash
-python run_local.py
-```
-
-### **6. Teste no Bot Framework Emulator**
+### **. Teste no Bot Framework Emulator**
 - 📥 **Download**: [Bot Framework Emulator](https://github.com/Microsoft/BotFramework-Emulator/releases)
 - 🔗 **URL**: `http://localhost:3978/api/messages`
 - 🆔 **App ID**: (deixe vazio)
