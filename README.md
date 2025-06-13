@@ -162,7 +162,7 @@ python run_local.py
 
 ### **🔄 Para contribuir:**
 
-1. **Fork** este repositório
+1. 
 2. **Clone** seu fork
 3. **Crie branch**: `git checkout -b minha-feature`
 4. **Desenvolva** sua feature
